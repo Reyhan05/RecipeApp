@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipesCatalog</string>
+
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="txt_dessert">Pencuci Mulut</string>
+    <string name="txt_breakfast">Sarapan</string>
+
+    <string name="txt_detail_recipe">Detail Resep</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Carbo</string>
+    <string name="txt_recipe">Resep</string>
+    <string name="txt_ingredients">Bahan - Bahan</string>
+
+</resources>
